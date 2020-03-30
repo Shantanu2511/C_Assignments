@@ -1,0 +1,15 @@
+Enter the number of lines: 8
+       $
+      $$$
+     $$$$$
+    $$$$$$$
+   $$$$$$$$$
+  $$$$$$$$$$$
+ $$$$$$$$$$$$$
+$$$$$$$$$$$$$$$
+
+Process returned 0 (0x0)   execution time : 5.966 s
+Press any key to continue.
+
+
+

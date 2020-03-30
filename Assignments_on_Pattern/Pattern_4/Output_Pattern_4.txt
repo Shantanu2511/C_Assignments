@@ -1,0 +1,15 @@
+Enter the number of lines: 10
+$$$$$$$$$$$$$$$$$$$
+ $$$$$$$$$$$$$$$$$
+  $$$$$$$$$$$$$$$
+   $$$$$$$$$$$$$
+    $$$$$$$$$$$
+     $$$$$$$$$
+      $$$$$$$
+       $$$$$
+        $$$
+         $
+
+Process returned 0 (0x0)   execution time : 1.999 s
+Press any key to continue.
+

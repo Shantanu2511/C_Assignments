@@ -1,0 +1,16 @@
+Please enter the odd number of lines: 11
+*
+**
+***
+****
+*****
+******
+*****
+****
+***
+**
+*
+
+Process returned 0 (0x0)   execution time : 1.499 s
+Press any key to continue.
+

@@ -1,0 +1,20 @@
+Enter The number of lines: 10
+         *
+        * *
+       * * *
+      * * * *
+     * * * * *
+    * * * * * *
+   * * * * * * *
+  * * * * * * * *
+ * * * * * * * * *
+* * * * * * * * * *
+
+Process returned 0 (0x0)   execution time : 2.198 s
+Press any key to continue.
+
+
+
+
+
+

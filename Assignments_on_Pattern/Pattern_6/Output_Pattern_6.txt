@@ -1,0 +1,12 @@
+Enter the number of lines: 8
+.......a
+......bbb
+.....ccccc
+....ddddddd
+...eeeeeeeee
+..fffffffffff
+.ggggggggggggg
+hhhhhhhhhhhhhhh
+
+Process returned 0 (0x0)   execution time : 2.597 s
+Press any key to continue.
