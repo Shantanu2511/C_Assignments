@@ -1,0 +1,17 @@
+Please enter the Odd number of Lines: 11
+     $
+    $$$
+   $$$$$
+  $$$$$$$
+ $$$$$$$$$
+$$$$$$$$$$$
+ $$$$$$$$$
+  $$$$$$$
+   $$$$$
+    $$$
+     $
+
+Process returned 0 (0x0)   execution time : 2.703 s
+Press any key to continue.
+
+
