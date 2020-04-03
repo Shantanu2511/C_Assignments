@@ -1,0 +1,11 @@
+Enter the num: 5
+
+Sum of numbers from 1 to 5 is: 15
+
+Process returned 0 (0x0)   execution time : 3.730 s
+Press any key to continue.
+
+
+
+
+

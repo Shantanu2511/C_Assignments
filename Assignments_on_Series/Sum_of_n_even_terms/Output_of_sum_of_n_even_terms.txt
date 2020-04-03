@@ -1,0 +1,7 @@
+Enter the number of term you want sum of: 5
+
+Sum of 5 even terms is = 30
+
+Process returned 0 (0x0)   execution time : 7.997 s
+Press any key to continue.
+
