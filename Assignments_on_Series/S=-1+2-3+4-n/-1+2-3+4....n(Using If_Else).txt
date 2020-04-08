@@ -1,0 +1,16 @@
+Welcome to the sum calculator of series -1+2-3+4-...n
+
+Entet the number: 7
+
+Required sum is: -4
+
+Process returned 0 (0x0)   execution time : 2.777 s
+Press any key to continue.
+
+
+
+
+
+
+
+

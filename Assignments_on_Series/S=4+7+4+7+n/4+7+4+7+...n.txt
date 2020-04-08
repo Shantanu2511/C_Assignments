@@ -1,0 +1,21 @@
+Series is 4+7+4+7+...n
+
+Enter the no of terms: 5
+Current i = 1, term = 4 and sum = 4
+Current i = 2, term = 7 and sum = 11
+Current i = 3, term = 4 and sum = 15
+Current i = 4, term = 7 and sum = 22
+Current i = 5, term = 4 and sum = 26
+
+Process returned 0 (0x0)   execution time : 7.587 s
+Press any key to continue.
+
+
+
+
+
+
+
+
+
+

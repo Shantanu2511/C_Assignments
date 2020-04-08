@@ -1,0 +1,19 @@
+Enter the no of terms: 11
+
+Adding term = 1
+Adding term = 2
+Adding term = 3
+Adding term = 4
+Adding term = 10
+
+Adding term = 5
+Adding term = 6
+Adding term = 7
+Adding term = 8
+Adding term = 26
+
+Adding term = 9
+Required sum = 81
+Process returned 0 (0x0)   execution time : 7.194 s
+Press any key to continue.
+

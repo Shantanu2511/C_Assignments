@@ -1,0 +1,12 @@
+Enter the no: 5
+Current i = 1, term = -1 and sum = -1
+Current i = 2, term = 2 and sum = 1
+Current i = 3, term = -3 and sum = -2
+Current i = 4, term = 4 and sum = 2
+Current i = 5, term = -5 and sum = -3
+
+Process returned 0 (0x0)   execution time : 4.637 s
+Press any key to continue.
+
+
+
