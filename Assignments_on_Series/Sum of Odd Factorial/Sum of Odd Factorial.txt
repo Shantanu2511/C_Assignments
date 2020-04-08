@@ -1,0 +1,18 @@
+Enter the no: 4
+Current i = 1,Factorial = 1 and Sum = 1
+Current i = 2,Factorial = 6 and Sum = 7
+Current i = 3,Factorial = 120 and Sum = 127
+Current i = 4,Factorial = 5040 and Sum = 5167
+
+Required sum = 5167
+
+Process returned 0 (0x0)   execution time : 1.241 s
+Press any key to continue.
+
+
+
+
+
+
+
+

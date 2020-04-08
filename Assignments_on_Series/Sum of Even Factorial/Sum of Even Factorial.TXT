@@ -1,0 +1,18 @@
+Enter the no: 5
+Current i = 1,Factorial = 2 and Sum = 2
+Current i = 2,Factorial = 24 and Sum = 26
+Current i = 3,Factorial = 720 and Sum = 746
+Current i = 4,Factorial = 40320 and Sum = 41066
+Current i = 5,Factorial = 3628800 and Sum = 3669866
+
+Process returned 0 (0x0)   execution time : 4.903 s
+Press any key to continue.
+
+
+
+
+
+
+
+
+
