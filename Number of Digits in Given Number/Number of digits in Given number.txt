@@ -1,0 +1,10 @@
+Enter the number: 457856
+
+The number you entered contains 6 digits
+
+Process returned 0 (0x0)   execution time : 2.962 s
+Press any key to continue.
+
+
+
+

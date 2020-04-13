@@ -1,0 +1,15 @@
+Enter the number: 4562125
+
+The number you entered contains 7 digits
+
+Process returned 0 (0x0)   execution time : 3.178 s
+Press any key to continue.
+
+
+
+
+
+
+
+
+

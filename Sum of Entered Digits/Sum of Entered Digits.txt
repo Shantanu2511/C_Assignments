@@ -1,0 +1,16 @@
+Enter the Number: 1234
+
+Value ie Current adding in Sum = 4, reduced n= 123 and sum = 4
+
+Value ie Current adding in Sum = 3, reduced n= 12 and sum = 7
+
+Value ie Current adding in Sum = 2, reduced n= 1 and sum = 9
+
+Value ie Current adding in Sum = 1, reduced n= 0 and sum = 10
+
+Required Sum: 10
+
+Process returned 0 (0x0)   execution time : 1.899 s
+Press any key to continue.
+
+
